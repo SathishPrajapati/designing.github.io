@@ -1,4 +1,4 @@
 MY New Website for Design
 
 
-Link :- https://sathishprajapati.github.io/designing.github.io/
+Link :- https://satishprajapati.github.io/designing.github.io/
